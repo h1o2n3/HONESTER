@@ -1,4 +1,4 @@
-## Paper: Temporal Network Evolutionary Structure Learning using  Von Neumann Entropy Changes
+## Temporal Network Evolutionary Structure Learning using  Von Neumann Entropy Changes
 
 ### Requirements
 
