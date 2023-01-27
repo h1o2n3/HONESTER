@@ -47,4 +47,4 @@ The network should be in the following format:
   $ python experiments/experiment_learn_edges.py -g 0 -s bitcoinalpha -b 512 
 ```
 
-If you want to change any settings, add a JSON file into  `./update_json/` or change the default settings from  `./ledge_configuration.py`
+If you want to change any settings, add a JSON file into  `./update_json/` or change the default settings from  `./ledge_configuration.py`.
